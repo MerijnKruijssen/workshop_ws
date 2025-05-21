@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>ROSMerijn</name>
+    <version>0.0.1</version>
+    <description>A simple ROS package for GitHub</description>
+
+    <maintainer email="jouw-email@example.com">Jouw Naam</maintainer>
+    <license>BSD</license>
+
+    <buildtool_depend>catkin</buildtool_depend>
+
+    <depend>rospy</depend>
+    <depend>std_msgs</depend>
+</package>
